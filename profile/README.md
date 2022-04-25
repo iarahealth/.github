@@ -6,10 +6,11 @@ Essa é a organização da [Iara Health](https://iarahealth.com), pioneira no de
 
 Links importantes:
 
-* [Teste grátis](https://app.iarahealth.com/register)
-* [Documentação técnica](https://developers.iarahealth.com)
+* [developers.iarahealth.com (documentação técnica)](https://developers.iarahealth.com)
+* [Exemplos de código (Iara Speech SDK JS)](https://developers.iarahealth.com/geral-exemplos)
+* [Teste grátis (Portal Iara)](https://app.iarahealth.com/register)
 * [contato@iarahealth.com](mailto:contato@iarahealth.com)
 
 ## 🤝 Trabalhe conosco
 
-A Iara Health está sempre à procura de pessoas talentosas que querem trabalhar com tecnologia de ponta na área de reconhecimento aplicada à saúde. Gosta de desenvolvimento web, machine learning, desafios e novidades? Entre em contato através de [contato@iarahealth.com](mailto:contato@iarahealth.com).
+A Iara Health está sempre à procura de pessoas talentosas que querem trabalhar com tecnologia de ponta na área de reconhecimento de voz aplicada à saúde. Gosta de desenvolvimento web, machine learning, desafios e novidades? Entre em contato através de [contato@iarahealth.com](mailto:contato@iarahealth.com).
